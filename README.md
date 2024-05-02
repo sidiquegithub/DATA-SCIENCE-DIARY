@@ -29,6 +29,7 @@ LOGISTIC REGRESSIONN (STATISTICAL MODELING)
   - It can be shown that $$\frac{p(x)}{1 - p(x)} = e^{\beta_0 + \beta_1 x}$$
   - $\frac{p(x)}{1 - p(x)}$ is called as $odds$
   - If we take $ln$ on both sides of above equation, it becomes $ln(\frac{p(x)}{1 - p(x)}) = \beta_0 + \beta_1 x $
+  - Coefficients $\beta_0$ and $\beta_1$ is calculated using maximum likelihood estimation.
     
     
 
